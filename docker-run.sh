@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 source ./web_server/scripts/b-log.sh
 LOG_LEVEL_ALL
