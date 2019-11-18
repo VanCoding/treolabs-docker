@@ -66,7 +66,7 @@ else
 fi
 
 export UID_U=$UID
-export GID_U=$(id -g)
+export GID_U=1000
 
 DEBUG "###### Down dockers container #####"
 docker-compose down
